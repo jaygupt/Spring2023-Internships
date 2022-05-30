@@ -1,8 +1,7 @@
 # Spring2023-Internships
 This is a collection of all Spring 2023 Tech Internship Postings!
----
+
 Contribute any postings by forking this repo, adding the posting to this README file, and opening a pull request. 😊
----
 
 ## The List 📙
 | Company | Location | Open/Closed | Notes |
